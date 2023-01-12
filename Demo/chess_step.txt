@@ -1,0 +1,17 @@
+user inserted x = 1 y = 1 z = 0
+AI   inserted x = 3 y = 1 z = 1
+user inserted x = 2 y = 3 z = 0
+AI   inserted x = 3 y = 1 z = 1
+user inserted x = 1 y = 2 z = 0
+AI   inserted x = 3 y = 1 z = 2
+user inserted x = 3 y = 1 z = 3
+AI   inserted x = 1 y = 1 z = 1
+user inserted x = 1 y = 3 z = 0
+AI   inserted x = 1 y = 0 z = 0
+user inserted x = 0 y = 3 z = 0
+AI   inserted x = 1 y = 2 z = 1
+user inserted x = 3 y = 3 z = 0
+
+******User Win!******
+
+end
